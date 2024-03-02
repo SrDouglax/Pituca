@@ -63,7 +63,7 @@ If you would like to contribute to Pituca, please follow these guidelines:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT).
 
 ## Acknowledgements
 
